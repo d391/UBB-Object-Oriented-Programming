@@ -1,0 +1,21 @@
+[2019-05-13 11:39:55] [info] Start Program:
+Path:"D:\ubb\oop\lab7\Debug\lab7.exe"
+Arguments:
+Working directory: "D:\ubb\oop\lab7\lab7\"
+Modules: Selected: D:\ubb\oop\lab7\Debug\lab7.exe Excluded: 
+Sources: Selected: D:\ubb\oop\lab7\lab7 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Asus\AppData\Local\Temp\rmkveluy.rqo 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-05-13 11:39:55] [info] Module: D:\ubb\oop\lab7\Debug\lab7.exe is selected because it matches selected pattern: D:\ubb\oop\lab7\Debug\lab7.exe
+[2019-05-13 11:39:57] [info] ----------------------------------------------------
+[2019-05-13 11:39:57] [info] Coverage binary generated in file: C:\Users\Asus\AppData\Local\Temp\rmkveluy.rqo
+[2019-05-13 11:39:57] [info] ----------------------------------------------------
